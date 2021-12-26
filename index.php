@@ -5,7 +5,7 @@ $password="b191200012";
 
 if(isset($_POST['username']) && $_POST['password'] == $password)
 {
-    header("Location: odev/index.php");
+    header("Location: C:\Users\kalka\OneDrive\Masaüstü\DERS\proje1/index.php");
 }
 else
 {
